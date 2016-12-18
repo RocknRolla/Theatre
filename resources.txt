@@ -1,0 +1,16 @@
+ASSETS
+    - https://www.google.hr/search?q=theatre&client=opera&hs=WvD&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi97q-T6tfLAhWkC5oKHdAhCWsQ_AUIBygB&biw=1600&bih=762
+    - http://preloaders.net/en/circular
+
+JS
+    - jQuery
+    - https://mixitup.kunkalabs.com
+    - jquery.themepunch.revolution.js - jQuery Plugin for Revolution Slider
+    - jQuery Validation Plugin - v1.11.0 - 2/4/2013
+    - WOW - v1.1.2 - 2015-04-07
+
+CSS
+    - Bootstrap
+    - Animate.css - http://daneden.me/
+    - Font Awesome 4.3.0 by @davegandy - http://fontawesome.io - @fontawesome
+    - Hover.css (http://ianlunn.github.io/Hover/)
